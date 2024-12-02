@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>상품 상세 - KOOLERS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>KOOLERS 쇼핑몰</h1>
+    </header>
+    <main>
+        <section class="product-detail">
+            <img src="product1.jpg" alt="상품1">
+            <h2>상품 1</h2>
+            <p>상품 상세 설명</p>
+            <p>가격: 100,000원</p>
+            <button>장바구니에 추가</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 KOOLERS. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
