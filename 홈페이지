@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KOOLERS 쇼핑몰</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>KOOLERS 쇼핑몰</h1>
+        <nav>
+            <ul>
+                <li><a href="#">홈</a></li>
+                <li><a href="#">로그인</a></li>
+                <li><a href="#">회원가입</a></li>
+                <li><a href="#">제품 보기</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>신상품</h2>
+        <section class="products">
+            <article class="product">
+                <img src="product1.jpg" alt="상품1">
+                <h3>상품 1</h3>
+                <p>상품 설명</p>
+                <button><a href="product-detail.html">자세히 보기</a></button>
+            </article>
+            <article class="product">
+                <img src="product2.jpg" alt="상품2">
+                <h3>상품 2</h3>
+                <p>상품 설명</p>
+                <button><a href="product-detail.html">자세히 보기</a></button>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 KOOLERS. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
